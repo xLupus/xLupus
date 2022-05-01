@@ -1,7 +1,7 @@
 ## Sobre mim
 
 Meu nome é Vinicius Souza, cursando o Segundo Semestre do curso de graduação em Tecnologia em Sistemas para Internet <..>
-
+<br>
 <div>
   <img height='200px' src='https://github-readme-stats.vercel.app/api?username=xLupus&show_icons=true&theme=dark&count_private=true&include_all_commits=true'/>
   <img height='200px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=xLupus&langs_count=5&theme=dark'/>
