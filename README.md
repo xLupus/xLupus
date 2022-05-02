@@ -1,6 +1,6 @@
-## Sobre mim
+## Olá, meu nome é Vinicius Souza
 
-Meu nome é Vinicius Souza, estudante em Tecnologia em Sistemas para Internet   <..>
+Estudante em Tecnologia em Sistemas para Internet   <..>
 
 <br>
 
