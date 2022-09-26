@@ -35,7 +35,7 @@ Estudante em Tecnologia em Sistemas para Internet   <..>
 ## Redes e Contatos
 
 <div style='display:inline-block'>
-  <a href='https://www.linkedin.com/in/vinicius-souza-b45b89237/' target='_blank'>
+  <a href='https://www.linkedin.com/in/vinicius-as-dev/' target='_blank'>
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
   </a>
   <a href='mailto:vinicius.as.dev@outlook.com' alt='Outlook' target='_blank'>
