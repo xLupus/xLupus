@@ -1,6 +1,6 @@
 # Vinicius Souza
 
-- Cursando o 3 Semestre de Tecnologia em Sistemas para Internet no Centro Universitário;
+- Cursando o 3 Semestre de Tecnologia em Sistemas para Internet no Centro Universitário Senac;
 
 <br>
 
