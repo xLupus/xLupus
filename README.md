@@ -11,12 +11,10 @@
 
 ## Aprendendo:
 
-<div style='display:inline-block'>
-  <img src='https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white'/>
-  <img src='https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'/>
-</div>
-
+- Laravel;
+- Angular;
+- SASS;
+- CSS-BEM.
 
 ## Linguagens/Softwares Front-end:
 
