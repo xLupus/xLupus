@@ -13,7 +13,7 @@
 
 - Laravel;
 - Angular;
-- SASS;
+- SASS/SCSS;
 - CSS-BEM.
 
 ## Linguagens/Softwares Front-end:
