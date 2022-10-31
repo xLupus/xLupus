@@ -34,16 +34,3 @@
   <img src='https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white'/>
   <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black'/>
 </div>
-
-
-
-## Redes e Contatos
-
-<div style='display:inline-block'>
-  <a href='https://www.linkedin.com/in/vinicius-as-dev/' target='_blank'>
-    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
-  </a>
-  <a href='mailto:vinicius.as.dev@outlook.com' alt='Outlook' target='_blank'>
-    <img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white'/>
-  </a>
-</div>
