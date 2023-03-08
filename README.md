@@ -9,9 +9,7 @@
   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=xLupus&langs_count=7&theme=dark&layout=compact'/>
 </div>
 
-
 ## Front-end:
-
 <div style='display:inline-block'>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
   <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
@@ -21,15 +19,12 @@
   <img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white'/>
 </div>
 
-
 ## Back-end:
-
 <div style='display:inline-block'>
   <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/>
   <img src='https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white'/>
   <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'/>  
   <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB'/>
-  <img src='https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white'/>
 </div>
 
 #### Databases/ORMs
@@ -38,3 +33,6 @@
   <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black'/>
   <img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white'/>
 </div>
+
+### Outros
+<img src='https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white'/>
