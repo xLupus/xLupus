@@ -1,9 +1,7 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=152837&section=header&text=Vinicius%20Souza&fontSize=40&fontColor=346e99&fontAlignY=35&desc=FULLSTACK%20WEB%20DEVELOPER&descSize=18&descAlign=70&descAlignY=50&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=1000&color=4C91C7&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+Meu+Nome+%C3%A9+Vinicius+Souza;Eu+Sou+um+Desenvolvedor+Fullstack" alt="Typing SVG" />
-
-<br>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=32&duration=4000&pause=800&color=3B7EAE&center=true&vCenter=true&width=800&height=50&lines=Estudante+de+Sistemas+para+Internet+no+Senac;Tenho+22+anos;Moro+em+Sampa+city" alt="Typing SVG" />
 
 <div align="center">
   <img width="49%" height='250px' src='https://github-readme-stats.vercel.app/api?username=xLupus&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000'/>
@@ -38,11 +36,11 @@
 ### Outros
 <img src='https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white'/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xLupus&bg_color=152837&color=4c91c7&line=4c91c7&point=2d75ec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xLupus&bg_color=152837&color=4c91c7&line=346E99&point=2d75ec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <p><b>Visitors Count</b></p>
   <img src="http://profile-counter.glitch.me/%7BxLupus%7D/count.svg" />
  </div>
      
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=152837&section=footer" />
