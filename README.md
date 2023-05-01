@@ -36,7 +36,7 @@
 ### Outros
 <img src='https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white'/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xLupus&bg_color=152837&color=4c91c7&line=346E99&point=2d75ec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xLupus&bg_color=00000000&color=4c91c7&line=346E99&point=2d75ec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <p><b>Visitors Count</b></p>
