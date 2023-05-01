@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=152837&section=header&text=Vinicius%20Souza&fontSize=40&fontColor=346e99&fontAlignY=35&desc=FULLSTACK%20WEB%20DEVELOPER&descSize=18&descAlign=70&descAlignY=50&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=152837&section=header&text=Vinicius%20Souza&fontSize=40&fontColor=346e99&fontAlignY=45&desc=FULLSTACK%20WEB%20DEVELOPER&descSize=18&descAlign=70&descAlignY=60&animation=fadeIn" />
 
 <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=32&duration=4000&pause=800&color=3B7EAE&center=true&vCenter=true&width=800&height=50&lines=Estudante+de+Sistemas+para+Internet+no+Senac;Tenho+22+anos;Moro+em+Sampa+city" alt="Typing SVG" />
 
