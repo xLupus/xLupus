@@ -4,8 +4,8 @@
 <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=32&duration=4000&pause=800&color=3B7EAE&center=true&vCenter=true&width=800&height=50&lines=Estudante+de+Sistemas+para+Internet+no+Senac;Tenho+22+anos;Moro+em+Sampa+city" alt="Typing SVG" />
 
 <div align="center">
-  <img width="49%" height='250px' src='https://github-readme-stats.vercel.app/api?username=xLupus&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000'/>
-  <img width="41%" height='220px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=xLupus&langs_count=7&theme=dark&hide_border=true&layout=compact&bg_color=00000000'/>
+  <img width="49%" height='250px' src='https://github-readme-stats.vercel.app/api?username=xLupus&show_icons=true&theme=dark&title_color=346E99&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000'/>
+  <img width="41%" height='220px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=xLupus&langs_count=7&theme=dark&title_color=346E99&hide_border=true&layout=compact&bg_color=00000000'/>
 </div>
 
 ## Front-end:
