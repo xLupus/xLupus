@@ -1,20 +1,3 @@
-<div>
-  <a href="mailto:vinicius.as.dev@outlook.com" target="_blank">
-    <img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white' alt=' '/>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5511978268743" target="_blank">
-    <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt=' '/>
-  </a>
-  <a href="#" target="_blank">
-    <img src='https://img.shields.io/badge/Portifolio-000000?style=for-the-badge&logo=vercel&logoColor=white' alt=' '/>
-  </a>
-  <a href="#" target="_blank">
-    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt=' '/>
-  </a>
-  <a href="#" target="_blank">  </a>
-</div>
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=152837&section=header&text=Vinicius%20Souza&fontSize=40&fontColor=346e99&fontAlignY=45&desc=FULLSTACK%20WEB%20DEVELOPER&descSize=18&descAlign=70&descAlignY=60&animation=fadeIn" />
 
 <p>
@@ -60,6 +43,22 @@ Este portfólio contém alguns projetos que desenvolvi durante meu período de e
   <img src='' alt=' '/>
 </div>
 
+## Contato:
+<div>
+  <a href="mailto:vinicius.as.dev@outlook.com" target="_blank">
+    <img src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white' alt=' '/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5511978268743" target="_blank">
+    <img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt=' '/>
+  </a>
+  <a href="#" target="_blank">
+    <img src='https://img.shields.io/badge/Portifolio-000000?style=for-the-badge&logo=vercel&logoColor=white' alt=' '/>
+  </a>
+  <a href="#" target="_blank">
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt=' '/>
+  </a>
+  <a href="#" target="_blank">  </a>
+</div>
 <br />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xLupus&theme=tokyo-night&bg_color=00000000&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
