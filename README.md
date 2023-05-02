@@ -38,7 +38,7 @@ Este portfólio contém alguns projetos que desenvolvi durante meu período de e
 
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xLupus&bg_color=00000000&color=4c91c7&line=346E99&point=2d75ec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xLupus&theme=tokyo-night&bg_color=00000000&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <p><b>Visitors Count</b></p>
