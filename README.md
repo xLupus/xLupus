@@ -40,7 +40,6 @@ Este portfólio contém alguns projetos que desenvolvi durante meu período de e
 <div> 
   <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
   <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'/>
-  <img src='' alt=' '/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xLupus&theme=tokyo-night&bg_color=00000000&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
