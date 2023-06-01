@@ -42,7 +42,7 @@ Este portfólio contém alguns projetos que desenvolvi durante meu período de e
   <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xLupus&theme=tokyo-night&bg_color=00000000&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xLupus&theme=tokyo-night&bg_color=00000000&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <p><b>Visitors Count</b></p>
